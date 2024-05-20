@@ -29,7 +29,7 @@ class DataServiceStub1 implements DataService{
 
 	@Override
 	public int[] retrieveAllData() {
-		// TODO Auto-generated method stub
+
 		return new int[] {24, 23 , 34};
 	}
 	
@@ -39,7 +39,7 @@ class DataServiceStub2 implements DataService{
 
 	@Override
 	public int[] retrieveAllData() {
-		// TODO Auto-generated method stub
+		
 		return new int[] {24};
 	}
 	
